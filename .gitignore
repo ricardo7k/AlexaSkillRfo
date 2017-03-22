@@ -125,7 +125,6 @@ tags
 .svn/
 ### Laravel template
 vendor/
-#node_modules/
 
 # Laravel 4 specific
 bootstrap/compiled.php
