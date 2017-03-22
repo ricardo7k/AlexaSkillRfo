@@ -1,0 +1,25 @@
+{
+  "name": "alexa-skill",
+  "version": "1.0.0",
+  "description": "Alexa skill Rfo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo7k/AlexaSkillRfo.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Caca Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardo7k/AlexaSkillRfo/issues"
+  },
+  "homepage": "https://rfo.im",
+  "dependencies": {
+    "alexa-app": "^2.3.2"
+  }
+}
