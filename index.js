@@ -2,7 +2,7 @@ module.change_code = 1;
 'use strict';
 
 var alexa = require( 'alexa-app' );
-var app = new alexa.app( 'skill' );
+var app = new alexa.app( 'skill' ); 
 var rp = require('request-promise');
 var servRP = 'https://rfo.im/report.php';
 
